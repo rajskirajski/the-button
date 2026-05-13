@@ -8,3 +8,5 @@ services:
      DJANGO_SECRET_KEY: ${DJANGO_SECRET_KEY}
 
      ##dacdscsd
+     #djnsdvkbsvjlhfdbvlfdbv
+     1234test
