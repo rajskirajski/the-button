@@ -38,3 +38,6 @@ Masz dwie możliwości:
 
 🔹 4. Uruchom serwer
 `python manage.py runserver`
+
+# punkt piaty zadania
+
