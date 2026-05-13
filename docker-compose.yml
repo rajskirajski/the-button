@@ -6,9 +6,3 @@ services:
      - "8000:8000"
    environment:
      DJANGO_SECRET_KEY: ${DJANGO_SECRET_KEY}
-
-     ##dacdscsd
-     #djnsdvkbsvjlhfdbvlfdbv
-     #1234test
-    # 1234321
-123
