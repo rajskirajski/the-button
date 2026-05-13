@@ -40,4 +40,4 @@ Masz dwie możliwości:
 `python manage.py runserver`
 
 # punkt piaty zadania
-######
+###### kolejny punkt zadania
