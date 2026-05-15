@@ -39,6 +39,4 @@ Masz dwie możliwości:
 🔹 4. Uruchom serwer
 `python manage.py runserver`
 
-# punkt piaty zadania
-###### kolejny punkt zadania
-123123123
+###proba wysłania komentarza
