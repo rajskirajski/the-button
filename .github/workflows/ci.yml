@@ -80,6 +80,7 @@ jobs:
           echo "Deployment to production environment completed!"
   #koniec mmodyfikacji
   #to juz na prawde koniec :P
+  #no dobra to juz ostatni1!!!!
   build-and-push:
     needs: test
     runs-on: ubuntu-latest
