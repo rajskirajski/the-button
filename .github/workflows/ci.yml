@@ -79,6 +79,7 @@ jobs:
           sleep 10
           echo "Deployment to production environment completed!"
   #koniec mmodyfikacji
+  #to juz na prawde koniec :P
   build-and-push:
     needs: test
     runs-on: ubuntu-latest
