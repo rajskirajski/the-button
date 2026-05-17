@@ -64,7 +64,7 @@ jobs:
           
 # wklej poniżej deploy to produktion
 
-deploy-to-production:
+  deploy-to-production:
     needs: deploy-to-dev
     runs-on: ubuntu-latest
     environment: production
