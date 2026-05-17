@@ -4,6 +4,6 @@ services:
     container_name: the_button_app
     ports:
        - "8000:8000"
-     environment:
+    environment:
        DJANGO_SECRET_KEY: ${DJANGO_SECRET_KEY}
     # ALLOWED_HOSTS: ${ALLOWED_HOSTS}
